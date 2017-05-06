@@ -1,4 +1,4 @@
 # Mode
 Finding a mode of a large dataset
 
-![alt text] (https://github.com/Jithendar19/Mode/blob/master/aPECc-4-15-16-combinedV1-page0001.jpg)
+https://cloud.githubusercontent.com/assets/19591107/25776410/f659f094-3282-11e7-86d0-2b090a6811d8.jpg
